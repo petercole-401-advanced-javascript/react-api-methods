@@ -16,7 +16,7 @@
 ## To Run
 - Clone repo
 - `% npm i`
-- `npm start`
+- `% npm start`
 - Enter the api url
   - For example, `https://pokeapi.co/api/v2/pokemon/ditto/`
 - Click GET

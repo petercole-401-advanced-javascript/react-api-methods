@@ -10,6 +10,7 @@ class Buttons extends React.Component {
   }
   render() {
     return (
+      <Button method="GET">GET</Button>
       <div>
         <button onClick={() => {
           fetchRequest(this.state.api, 'GET').then((results) => {
